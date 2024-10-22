@@ -1,4 +1,4 @@
-# Optimizing Topic Modeling on Amazon Reviews
+# Topic Modeling on Amazon Reviews
 
 ## Project Overview
 
